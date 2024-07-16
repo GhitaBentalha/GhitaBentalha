@@ -38,7 +38,3 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-
-### Education:
-- **Cycle d'ingénieur**, Ecole Marocaine des Sciences de l'Ingénieur (EMSI)
-  - Option Méthodes Informatiques Appliquées à La Gestion Des Entreprises (Miage)
