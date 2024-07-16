@@ -2,7 +2,7 @@
 ## Ghita BENTALHA
 
 ### About me:
-"Currently a second-year engineering student in Computer Science and Networks with a specialization in Applied Computer Methods for Business Management (MIAGE) at the Moroccan School of Engineering Sciences (EMSI) in Rabat, I'm seeking a final year project internship in the field of software development starting July 1st to deepen my knowledge in development and gain concrete experience in professional projects."
+"Currently a second-year engineering student in Computer Science and Networks with a specialization in Applied Computer Methods for Business Management (MIAGE) at the Moroccan School of Engineering Sciences (EMSI) in Rabat."
 
 - 🌱 I'm currently learning Fullstack Web/Mobile Development using good DevOps habits and Agile methodologies.
 - 📫 How to reach me: [bentalhaghita@emsi-edu.ma](mailto:bentalhaghita@emsi-edu.ma)
