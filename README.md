@@ -4,7 +4,7 @@
 ### About me:
 "I'm a last-year engineering student in Computer Science and Networks with a specialization in Applied Computer Methods for Business Management (MIAGE) at the Moroccan School of Engineering Sciences (EMSI) in Rabat."
 
-- 🌱 I'm currently learning Fullstack Web/Mobile Development using good DevOps habits and Agile methodologies.
+- 🌱 I'm currently learning good testing habits including Automated Tests & QA, also interested in Fullstack Web/Mobile Development using good DevOps habits and Agile methodologies.
 - 📫 How to reach me: [bentalhaghita@emsi-edu.ma](mailto:bentalhaghita@emsi-edu.ma)
 
 ### Connect with me:
